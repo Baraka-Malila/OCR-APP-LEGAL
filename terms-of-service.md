@@ -2,13 +2,13 @@
 
 **Effective Date:** [06/01/2025]
 
-Welcome to our OCR App. These Terms govern your use of the App and related services.
+Welcome to OCRsnap community. These Terms govern your use of the App and related services.
 
 ## 1. Acceptance of Terms
 By downloading or using the App, you agree to these Terms of Service. If you do not agree, do not use the App.
 
 ## 2. Description of the App
-This OCR App allows users to scan images and extract text using optical character recognition. You may choose between Tesseract (offline) or Google Cloud Vision (online, via secure API).
+OCRsnap App allows users to scan images and extract text using optical character recognition. You may choose between Tesseract (offline) or Google Cloud Vision (online, via secure API).
 
 ## 3. User Responsibilities
 - You agree not to use the App for illegal, harmful, or unauthorized purposes.
@@ -35,4 +35,4 @@ We may update these Terms at any time. Continued use after changes indicates acc
 
 ## 10. Contact
 For questions about these Terms, reach out to:  
-**Email:** [Bmalila87@gmail.com]
+**Email:** Bmalila87@gmail.com

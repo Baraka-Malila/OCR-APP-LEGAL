@@ -2,7 +2,7 @@
 
 **Effective Date:** [06/01/2025]
 
-Your privacy is important to us. This Privacy Policy describes how we collect, use, and safeguard your information when you use our OCR App ("the App").
+Your privacy is important to us. This Privacy Policy describes how we collect, use, and safeguard your information when you use our OCR App ("OCRsnap").
 
 ## 1. Information We Collect
 
